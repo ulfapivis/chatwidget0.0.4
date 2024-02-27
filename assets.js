@@ -82,7 +82,7 @@ header h2 {
 }
 .chatbot .chatbox {
   overflow-y: auto;
-  height: 510px;
+  height: 400px;
   padding: 30px 30px 120px;
 }
 .chatbot :where(.chatbox, textarea)::-webkit-scrollbar {
